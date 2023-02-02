@@ -1,2 +1,2 @@
 # infinite-hover
-Infinite hover game made with the teachings of @mrmcfadden xP
+Infinite hover game that @mrmcfadden taught us to create xP
